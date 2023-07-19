@@ -7,7 +7,7 @@
 .vscode
 
 # latex
-pres_template.pdf
+presentation_template.pdf
 **.aux
 **.blg
 **.fdb_latexmk
